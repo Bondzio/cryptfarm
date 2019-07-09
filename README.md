@@ -1,2 +1,2 @@
 # cryptfarm
-Documents relating to the crypt farm
+You probably want to be reading the [wiki](https://github.com/linucks/cryptfarm/wiki)
